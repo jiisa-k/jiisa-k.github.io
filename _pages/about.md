@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year graduate student at Purdue University, West Lafayette, where I am pursuing an MS in Statistics. Priot to this, I worked as a Quantitative Analytics Specialist at Wells Fargo, where I was part of the Risk Modelling Group. I completed my B.Tech from IIT Roorkee under the Department of Mechanical and Industrial Engineering. I am broadly interested in applying statistics to problems in finance and theoretical Machine Learning.
+I am a first-year graduate student at Purdue University, West Lafayette, where I am pursuing an MS in Statistics. Prior to this, I worked as a Quantitative Analytics Specialist at Wells Fargo, where I was part of the Risk Modelling Group. I completed my B.Tech from IIT Roorkee under the Department of Mechanical and Industrial Engineering. I am broadly interested in applying statistics to problems in finance and theoretical Machine Learning.
 
 ## Research Experience
 
