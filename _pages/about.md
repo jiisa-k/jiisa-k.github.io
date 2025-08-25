@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work as a Quantitative Analytics Specialist at Wells Fargo. I am a part of the Risk Modelling Group, where I work specifically with the Deposits portfolio. I completed my B.Tech from IIT Roorkee under the Department of Mechanical and Industrial Engineering. I am interested in theoretical Machine Learning and Optimisation. 
+I am a first-year graduate student at Purdue University, West Lafayette, where I am pursuing an MS in Statistics. Priot to this, I worked as a Quantitative Analytics Specialist at Wells Fargo, where I was part of the Risk Modelling Group. I completed my B.Tech from IIT Roorkee under the Department of Mechanical and Industrial Engineering. I am broadly interested in applying statistics to problems in finance and theoretical Machine Learning.
 
 ## Research Experience
 
@@ -18,6 +18,4 @@ I also collaborated with [Dr Dhish Kumar Saxena](https://iitr.ac.in/Departments/
 Other than this, I've had the good fortune to work with professors from IIIT Hyderabad and NTU Singapore. 
 
 ## Outside Work
-I am really interested in and spend a lot of time learning math (using online videos, textbooks and internet forums).  I am an avid reader, though my genre of choice varies with the season. When I am too tired to read or want to enjoy some scenery, I listen to audiobooks and podcasts. I also listen to music and take vocals classes. 
-
-I am always on the lookout for good research opportunities. If our interests align and you are looking for researchers, feel free to send me an email!
+I am an avid reader and can always be a found with a book in my bag. I have also rekindled my love for walking, and can be spotted at random locations out-of-doors. I also enjoy music (especially singing). 
